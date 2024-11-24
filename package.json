@@ -9,6 +9,7 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "crypto": "^1.0.1",
     "zuplo": "6.19.6"
   },
   "devDependencies": {
